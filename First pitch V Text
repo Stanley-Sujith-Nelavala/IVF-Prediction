@@ -1,0 +1,59 @@
+27th slide
+
+Good evening sir and 
+Good evening to everyone who all are here today.
+
+Firstly, i would like to thank Arnab sir and Oswald sir for giving me this opportunity to work under their guidance.
+
+Thereupon we are team of 2 myself Vidya and my teammate stanley presenting our problrm statemnt 
+IVF forecasting and Interpretation for Infertile couples using Machine Learning in shortly estimate evaluate explain
+
+28th slide
+
+To go deeper into our problem statment we will get to know theme of our problem
+
+So recently a national survey was conducted by the Centers for Disease Control and Prevention (CDC) from Family Growth
+
+In that survey they found approximately 1 in 8 couples struggle with infertility. It’s estimated that 48.5 million couples worldwide struggle with infertility.
+
+Consequently these couple opt for Artificial reproductive techniques namely IVF - Invitri fertilization and ICSI - Intracytoplasmic sperm injection.In most of the cases the friendly option is IVF.
+
+As IVF is increasing on the one hand there is also some factors that effect this process 
+in moving the eye to those factors female age has  been the robusr factor.
+
+The above statement had been proved by the Data collected by the Human Fertilisation and Embryology Authority (HFEA) showed that the percentage of IVF cycles that resulted in births decreases from 20% when the mother is aged 38-39, to 14% at age 40-42, to just 5% when she is over 42.
+
+Coming to the point what is IVF. It is a procedure in which eggs are removed from a woman's ovary and combined with sperm outside the body to form embryos. The embryos are grown in the laboratory for several days and then either placed in a woman's uterus or cryopreserved (frozen) for future use.
+
+29th slide
+Getting to know our key terms of our problem statement
+
+firstly estimate so what is meant by estimation
+calculating the possibilities so what is calculating the possibilities in IVF it means getting the percentage of success of treatment.
+
+what is the need to estimate 
+
+considerable amount of time,expensive 
+physical and mental strength
+and also
+Highly accurate analysis driven by AI and the statistical approach in AI, ML to develop prediction models whcih will be easy for physician to get accrate results
+Analyzing huge data records will be easy using some ML,DL techniques
+
+and why evaluation is required
+evaluation means finding the factors which are more prominent in achieving the results which is helpful for physicians to determine best diagnosis for patients.
+
+30th slide
+
+We would like to Estimate live-birth occurrence, Validate / Evaluate the predictors that Estimate the probability of Live-birth occurrence in IVF treatment for a couple before and after the treatment. 
+
+And also we would like to explain that why are these factors affect the treatment through explainable AI.
+
+and  input is The dataset containing the Clinical parameters of the couple.
+
+output consists of % of the live-birth occurrence, evaluation  interpretation of how the decisions are made by the AI.
+
+Dataset is from Human Fertilisation & Embryology Authority - UK. 
+
+
+
+
